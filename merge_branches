@@ -1,0 +1,5 @@
+PS> git checkout main
+Already on 'main'
+
+PS> git merge bug-fix-typo
+Already up to date.
